@@ -1,4 +1,4 @@
-# Lottery Contract
+# Lottery Contract Project
 
 This is a simple Ethereum smart contract written in Solidity for conducting a lottery. The contract allows participants to enter the lottery by sending 1 ether, and the winner is chosen randomly among the participants when the manager calls the `selectWinner` function.
 
